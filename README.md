@@ -15,4 +15,4 @@ mapproxy mapproxy.conf
 ```
 
 For more information about how to install and configure VTS-Mapproxy, please
-referer to [official documentation](http://melown.readthedocs.io/en/latest/).
+referer to [official documentation](https://vts-geospatial.org).
